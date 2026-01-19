@@ -12,3 +12,4 @@
 /Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.pdb
 /Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.genruntimeconfig.cache
 /Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/ref/Q1.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.sourcelink.json
