@@ -1,0 +1,15 @@
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/bin/Debug/net10.0/Q2-Multiplication_Table
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/bin/Debug/net10.0/Q2-Multiplication_Table.deps.json
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/bin/Debug/net10.0/Q2-Multiplication_Table.runtimeconfig.json
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/bin/Debug/net10.0/Q2-Multiplication_Table.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/bin/Debug/net10.0/Q2-Multiplication_Table.pdb
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/Q2-Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/Q2-Multiplication_Table.AssemblyInfoInputs.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/Q2-Multiplication_Table.AssemblyInfo.cs
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/Q2-Multiplication_Table.csproj.CoreCompileInputs.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/Q2-Multiplication_Table.sourcelink.json
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/Q2-Multiplication_Table.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/refint/Q2-Multiplication_Table.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/Q2-Multiplication_Table.pdb
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/Q2-Multiplication_Table.genruntimeconfig.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/Q2-Multiplication_Table/obj/Debug/net10.0/ref/Q2-Multiplication_Table.dll
