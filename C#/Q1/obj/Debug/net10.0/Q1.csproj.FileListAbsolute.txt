@@ -1,0 +1,14 @@
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/bin/Debug/net10.0/Q1
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/bin/Debug/net10.0/Q1.deps.json
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/bin/Debug/net10.0/Q1.runtimeconfig.json
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/bin/Debug/net10.0/Q1.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/bin/Debug/net10.0/Q1.pdb
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.AssemblyInfoInputs.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.AssemblyInfo.cs
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.csproj.CoreCompileInputs.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/refint/Q1.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.pdb
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/Q1.genruntimeconfig.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/Q1/obj/Debug/net10.0/ref/Q1.dll
